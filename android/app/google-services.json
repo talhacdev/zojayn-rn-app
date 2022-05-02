@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "903978324153",
+    "firebase_url": "https://nikahnama-default-rtdb.firebaseio.com",
+    "project_id": "nikahnama",
+    "storage_bucket": "nikahnama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903978324153:android:8f2eea1137c99621d14b68",
+        "android_client_info": {
+          "package_name": "com.nikkah.nama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903978324153-h4qk66neq2djqcri1n8ld9gvg3q6h7nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikkah.nama",
+            "certificate_hash": "dc6845414ce7bef9ee190fa960812a11164d29d5"
+          }
+        },
+        {
+          "client_id": "903978324153-l1jrc9pjk9nrkt2jnjhndlj85rq4q8mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikkah.nama",
+            "certificate_hash": "29f7b464d630a643be6f74927b1bd9af7518219c"
+          }
+        },
+        {
+          "client_id": "903978324153-mphld6spijg1n39bgqbp66b6hjmaml1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikkah.nama",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "903978324153-schcjrqo4dnmtp7l4rec9tb415aoialq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsFSU4C76GLe0bO7uf4sYq20zdUaEO08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903978324153-schcjrqo4dnmtp7l4rec9tb415aoialq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "903978324153-tef889pn6m2qqrkcrgrielml0dn048cm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Zojayn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
